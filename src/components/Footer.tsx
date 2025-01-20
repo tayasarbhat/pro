@@ -65,17 +65,17 @@ export default function Footer() {
             </h3>
             <ul className="mt-4 space-y-4">
               <li className="text-base text-gray-400">
-                123 Electric Avenue<br />
-                New York, NY 10001
+              Kupwara<br />
+               Jammu and Kashmir
               </li>
               <li>
-                <a href="tel:+15551234567" className="text-base text-gray-400 hover:text-white">
-                  (555) 123-4567
+                <a href="tel:+917006592044" className="text-base text-gray-400 hover:text-white">
+                  +91 7006592044
                 </a>
               </li>
               <li>
-                <a href="mailto:info@powerproelectric.com" className="text-base text-gray-400 hover:text-white">
-                  info@powerproelectric.com
+                <a href="mailto:Tayasarbhat@gmail.com" className="text-base text-gray-400 hover:text-white">
+                  tayasarbhat@gmail.com
                 </a>
               </li>
             </ul>
